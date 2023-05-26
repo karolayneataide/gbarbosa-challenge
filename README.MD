@@ -12,10 +12,10 @@ Este é um aplicativo frontend escrito em React utilizando Vite como bundler. O 
 
 ## Telas
 
-![Tela de login](../../projetos//login-plus/src/assets/login-page.png)
-![Tela de cadastro](../../projetos//login-plus/src/assets/register-page.png)
-![Tela de login](../../projetos//login-plus/src/assets/change-password-page.png)
-![Tela dashboard](../../projetos//login-plus/src/assets/dashboard-page.png)
+![Tela de login](../../projetos//login-plus/public/login-page.png)
+![Tela de cadastro](../../projetos//login-plus/public/register-page.png)
+![Tela de alterar senha](../../projetos//login-plus/public/change-password-page.png)
+![Tela dashboard](../../projetos//login-plus/public/dashboard-page.png)
 
 ## Pré-requisitos
 
