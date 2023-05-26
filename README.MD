@@ -12,10 +12,15 @@ Este é um aplicativo frontend escrito em React utilizando Vite como bundler. O 
 
 ## Telas
 
-![Tela de login](../../projetos//login-plus/public/login-page.png)
-![Tela de cadastro](../../projetos//login-plus/public/register-page.png)
-![Tela de alterar senha](../../projetos//login-plus/public/change-password-page.png)
-![Tela dashboard](../../projetos//login-plus/public/dashboard-page.png)
+ - Tela de login
+![login-page](https://github.com/karolayneataide/gbarbosa-challenge/assets/80495195/b8717b5d-247c-441c-99fa-9400cd76cec0)
+ - Tela de trocar senha
+![change-password-page](https://github.com/karolayneataide/gbarbosa-challenge/assets/80495195/dee56063-a1d3-4930-82c3-d76e1c067008)
+ - Tela de registro
+![register-page](https://github.com/karolayneataide/gbarbosa-challenge/assets/80495195/c5791a02-5c72-43c8-b2f2-c01e8a0f11ca)
+ - Tela de dashboard
+![dashboard-page](https://github.com/karolayneataide/gbarbosa-challenge/assets/80495195/55350699-45d5-4e62-92b2-90a6bd3a1023)
+
 
 ## Pré-requisitos
 
