@@ -10,6 +10,13 @@ Este é um aplicativo frontend escrito em React utilizando Vite como bundler. O 
 - Material-UI: Biblioteca de componentes para uma interface de usuário moderna e responsiva.
 - Axios: Cliente HTTP para fazer requisições à API.
 
+## Telas
+
+![Tela de login](../../projetos//login-plus/src/assets/login-page.png)
+![Tela de cadastro](../../projetos//login-plus/src/assets/register-page.png)
+![Tela de login](../../projetos//login-plus/src/assets/change-password-page.png)
+![Tela dashboard](../../projetos//login-plus/src/assets/dashboard-page.png)
+
 ## Pré-requisitos
 
 - Node.js (v14 ou superior)
@@ -20,19 +27,23 @@ Este é um aplicativo frontend escrito em React utilizando Vite como bundler. O 
 1. Clone o repositório em sua máquina local:
 
    ```bash
-   git clone <URL_DO_REPOSITÓRIO>
+   git clone https://github.com/karolayneataide/gbarbosa-challenge
    ```
 
 2. Acesse a pasta do projeto:
 
    ```bash
-   cd <NOME_DA_PASTA>
+   cd gbarbosa-challenge
    ```
 
 3. Instale as dependências do projeto:
 
    ```bash
-   npm install
-   # ou
    yarn install
+   ```
+
+4. Inicie o projeto
+
+   ```bash
+   yarn dev
    ```
