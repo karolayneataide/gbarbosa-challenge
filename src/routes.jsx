@@ -5,6 +5,7 @@ import { PasswordChange } from "./screens/PasswordChange";
 import { Register } from "./screens/Register";
 import { Login } from "./screens/Login";
 import { Dashboard } from "./screens/Dashboard";
+import { NotFound } from "./screens/NotFound";
 
 const router = createBrowserRouter([
   {
@@ -16,12 +17,16 @@ const router = createBrowserRouter([
     Component: Register,
   },
   {
-    path: "/trocar-senha",
+    path: "/alterar-senha",
     Component: PasswordChange,
   },
   {
     path: "/dashboard",
     Component: Dashboard,
+  },
+  {
+    path: "*",
+    Component: NotFound,
   },
 ]);
 
